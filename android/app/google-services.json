@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071309312708",
+    "firebase_url": "https://scholar-chat-5748b.firebaseio.com",
+    "project_id": "scholar-chat-5748b",
+    "storage_bucket": "scholar-chat-5748b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071309312708:android:80fef766342330dfdd6f91",
+        "android_client_info": {
+          "package_name": "com.example.Scholar_Chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071309312708-jcqau7s5je8adagj9gh4thct910vb51f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUD0VZp9_wRcokJD5y9BFuQ4SiAwpVrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071309312708-jcqau7s5je8adagj9gh4thct910vb51f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
